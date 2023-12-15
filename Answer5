@@ -1,0 +1,29 @@
+Subject: User Access Provisioning Testing Results - Deficiency Analysis
+
+Hi Michael,
+
+I hope this email finds you well. I've completed the deficiency analysis based on the client's responses. Here's a breakdown:
+
+User "First Name44 Last Name44":
+
+IT Ticket: Attached is the associated IT ticket. The user's job function was corrected to "Sr. Software Engineer" and is appropriately provisioned in Intacct.
+Job Function Change: No, there has been no change in the user's job function.
+Role Differences: "Outsourced Labor" and "Sr. Software Engineer" roles are different. "Sr. Software Engineer" holds more privileged access within Intacct.
+Analysis: This case is a false positive deficiency. The user was correctly provisioned, and the initial IT ticket was amended for accuracy.
+
+User "First Name77 Last Name77":
+
+IT Ticket: Attached is the associated IT ticket.
+Reason for Provisioning Before Approval: Management oversight. Agreed as a deficiency.
+User Log: The user did not log in to Intacct between the key dates.
+Analysis: This case is a confirmed deficiency. There is no risk impact due to the user not logging in during the non-approved period.
+
+Next Steps:
+
+Include the details and background provided by the client in our workpaper.
+For "First Name77 Last Name77," inform the client of the positive deficiency, and mention the increased sample size in the next testing phase.
+Assess compensating controls, specifically the Quarterly Access Review and System Access Control, and include their descriptions in the final result delivery.
+I will ensure these points are covered in the final presentation to the client. Let me know if there are any additional aspects you'd like me to address.
+
+Best regards,
+[Your Name]
