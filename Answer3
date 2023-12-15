@@ -1,0 +1,38 @@
+Hello Michael,
+
+I hope this email finds you well. I have completed the preliminary testing for the User Access Provisioning and Modification control. Below is a summary of the testing results:
+
+Sample Item 1: New User Access Provisioning
+
+Testing Details:
+
+Reviewed the email approval from the manager for a new user access request.
+Validated that the system administrator documented the approval and provisioned the user with the appropriate access level.
+Confirmed the system-generated email was sent to the new user.
+Testing Conclusion:
+
+The control is effective for new user access provisioning. No exceptions were identified.
+Sample Item 2: User Access Modification
+
+Testing Details:
+
+Examined a user-initiated ticket for access modification.
+Verified the system administrator's validation of proper approval before making changes.
+Checked that the ticket was appropriately documented and closed after the modification.
+Testing Conclusion:
+
+The control for user access modification is effective. No exceptions were found.
+Additional Notes:
+
+The organization uses Jira as the ticketing system for tracking and managing access requests, and it was consistently applied during the testing.
+The documentation for both provisioning and modification processes was thorough.
+Next Steps:
+
+I will continue with the remaining sample testing items and provide a comprehensive report on the control's effectiveness.
+If any exceptions are identified in subsequent testing, I will request additional information from the client and analyze the implications for further discussion.
+Please let me know if you require any additional information or if there are specific aspects you would like me to focus on during the remaining testing.
+
+Thank you for your guidance.
+
+Best regards,
+[Your Name]
